@@ -1,5 +1,4 @@
 # itcod-disk
-SOA ITCOD
 WEBDAV CLOUD Service for SOA ITCOD
 
 Сервис "ITCOD-DISK" Облачное хранилище.
